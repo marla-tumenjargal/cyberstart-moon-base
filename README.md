@@ -1,1 +1,1 @@
-Final solutions for all challenges on Cyberstart America's Moonbase; implemented key exchange, caesar cipher decryption files, XOR encryption, extracting files from a password-protect zip archive, etc. 
+final implemented solutions for all challenges on Cyberstart America's Moonbase; implemented key exchange, caesar cipher decryption files, XOR encryption, extracting files from a password-protect zip archive, forensics, reverse engineering, linux command line, steganography, etc (p.s. my first cybersecurity intro and the *funnest* video-game-like challenge 🎮)
